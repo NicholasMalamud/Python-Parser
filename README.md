@@ -1,4 +1,6 @@
 # Python-Parser
-Parser that identifies tokens and builds parse tree
+- identifies tokens using regex commands 
 
-Tkinter UI
+- builds parse tree
+
+- Tkinter UI
