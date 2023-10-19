@@ -1,6 +1,6 @@
 # Python-Parser
-- identifies tokens using regex commands 
+- Lexical analyzer that Identifies tokens within source code using regex commands.
 
-- builds parse tree
+- Constructs a parse tree to offer a step-by-step breakdown of code interpretation.
 
-- Tkinter UI
+- Includes an interactive UI made with the Tkinter Library
