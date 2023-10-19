@@ -1,4 +1,4 @@
-#HW7 Python Project -- parser
+#Python Project -- parser
 
 from tkinter import *
 import re
